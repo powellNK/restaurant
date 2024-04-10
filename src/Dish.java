@@ -1,8 +1,8 @@
 public class Dish {
     private String nameOfDish;
     private int priceDish;
-    private  int timeCooking;
-    private  int ageLimit;
+    private int timeCooking;
+    private int ageLimit;
 
     public String getNameOfDish() {
         return nameOfDish;
